@@ -66,3 +66,17 @@
 </div>
 
 ###
+
+<div align="center">
+  <img src="![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=l397zsn8u46hjiighc8fztcbh&unique={true|1|on|yes})?" alt="Widget with the current Spotify song"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&theme=dark&username=@Juan-David-Molina-Ruano" alt="Layout with last medium posts"  />
+</div>
+
+###
